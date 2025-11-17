@@ -1,0 +1,7 @@
+{
+  "name": "Eden FM AI Dashboard",
+  "description": "An AI-powered dashboard for Eden FM DJs to manage listener requests, registrations, and news, featuring an integrated chatbot powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
